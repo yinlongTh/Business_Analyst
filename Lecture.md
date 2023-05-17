@@ -69,8 +69,33 @@ For example : Steps on Tweets LDA Analysis
 5. Plot top terms by topics
 </pre>
 
+#### 5. Network Analysis
+- Social media data
+- Relationship between people
+Using <strong>Network graph</strong> to represent relationships between nodes
 
+<pre>
+Terms 
+- Clique : Interesting group of nodes, All nodes must be connected
+- Cluster : Connected Groups of nodes (huge group)
+            connecting between groups call "Bridge"
+</pre>
 
+Analyzing Influence
+<pre>
+Attention :
+- Bridge
+- Centrality
+- Deegree Centrality (number of ties on a node) : in/out degree
+- Closeness Centrality : average of the shortest paths from one to all other nodes
+- Eigenvector Centrality***
+</pre>
+
+<pre>
+Example : Twitter analysis for the influence of individuals
+Possible Ties : Number of Retweets, Follow, Mentions
+***See R code in the local machine*** 
+</pre>
 
 
 
