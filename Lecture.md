@@ -1,6 +1,8 @@
 ## Applying DA in Marketing
 
-#### Causal Analysis
+Analysis Techniques
+
+####1. Causal Analysis
 - Finding cause and find correlation
 <pre>
 ## Problem : 
@@ -14,7 +16,7 @@
   : Exclusion restriction
 </pre>
 
-#### Survey Analysis
+####2. Survey Analysis
 - Ex : Customer satisfaction
 <pre>
 ## Attention point
@@ -31,11 +33,12 @@
 And more
 </pre>
 
-#### Statistical Analysis
+####3. Statistical Analysis
 - T-tests : Comparing averages of 2 scores if they are similar
 - Multiple linear (Continuous or trends) | Logistic regression (0 or 1)
 - Machine learning
 
+####4. Text Analysis
 
 
 
