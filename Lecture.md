@@ -29,9 +29,12 @@
 - Social media data
 - Online behavioral data
 And more
-
 </pre>
 
+#### Statistical Analysis
+- T-tests : Comparing averages of 2 scores if they are similar
+- Multiple linear (Continuous or trends) | Logistic regression (0 or 1)
+- Machine learning
 
 
 
