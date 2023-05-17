@@ -2,7 +2,7 @@
 
 Analysis Techniques
 
-####1. Causal Analysis
+#### 1. Causal Analysis
 - Finding cause and find correlation
 <pre>
 ## Problem : 
@@ -16,7 +16,7 @@ Analysis Techniques
   : Exclusion restriction
 </pre>
 
-####2. Survey Analysis
+#### 2. Survey Analysis
 - Ex : Customer satisfaction
 <pre>
 ## Attention point
@@ -33,15 +33,41 @@ Analysis Techniques
 And more
 </pre>
 
-####3. Statistical Analysis
+#### 3. Statistical Analysis
 - T-tests : Comparing averages of 2 scores if they are similar
 - Multiple linear (Continuous or trends) | Logistic regression (0 or 1)
 - Machine learning
 
-####4. Text Analysis
+#### 4. Text Analysis
+Example : Twitter Positive-Nagative Top 10 analysis (Analyzing Social Media Attitudes Part 2)
+<pre>
+1) Collect text data
+2) Tokenize the text (Capturing words by word by computer) 
+3) Normalize the tokens (Ex : remove underscore, delete !, etc.)
+4) Remove stop words (or, and, the, this, etc.) but not neccesary
+5) Stem tokens (Running, ran, runs -> run)
+
+After cleaning we can
+- Frequency Counting
+- N-grams frequency counting (Unigram - Love, Bigram - Love you, Trigram - I Love you)
+- Using packages in R
+</pre>
 
 
-
+LDA Topic Modeling
+- Go through each document, and randomly assign each world in topics
+  : Ex Topic 1 - dog, tree, green, Topic 2 - spider, guy, pizza
+- Improve to group the words better (by repeating again and again) then name the topic by human
+  : Ex Technology -> computer, data, bitcoin
+  
+<pre>
+For example : Steps on Tweets LDA Analysis
+1. Read CSV file (or other sources)
+2. Cleaning (Remove URL, Tokenize, Normalize, Remove stop words)
+3. Create a Document-term Matrix
+4. Run LDA
+5. Plot top terms by topics
+</pre>
 
 
 
