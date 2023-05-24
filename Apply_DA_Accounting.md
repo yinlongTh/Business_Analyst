@@ -30,6 +30,10 @@ COSO Model : To prevent Frauds
 - Control activities
 - Overall monitoring
 
+***Alteryx***
+
+
+
 
 
 
