@@ -11,5 +11,15 @@
 </pre>
 
 #### Controls & Auditing
-Auditor looking for
-- Pressures to misreport
+Financial Auditor does (to check comps period-end statements)
+- Recalculate
+- Inspect
+- Inspect physical assets
+- DA to rest transactions
+<br>
+<strong>Advance in Tech helps Auditors to automated check transactions</strong>
+
+
+
+
+
