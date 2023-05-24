@@ -19,6 +19,20 @@ Financial Auditor does (to check comps period-end statements)
 <br>
 <strong>Advance in Tech helps Auditors to automated check transactions</strong>
 
+Fraud Triangle
+- Motivation
+- Opportunity
+- Rationalization
+
+COSO Model : To prevent Frauds
+- Overall control 
+- Risk assessment
+- Control activities
+- Overall monitoring
+
+
+
+
 
 
 
